@@ -1,0 +1,28 @@
+name: bradhinson
+favicon: null
+layout_spectrum: 0.3292779950425029
+typography_spectrum: 0.905187894590199
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.48039127653464675
+  lightness: 0.18491333862766623
+  saturation: 0.9213921253103763
+  rhythmicContrast: 0.5510602972935885
+purpose: []
